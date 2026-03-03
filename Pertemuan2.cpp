@@ -24,3 +24,9 @@ void prosesLuasSegitiga()
     // Output
     cout << "Luas segitiga adalah : " << luas << endl;
 }
+
+int main()
+{
+    prosesLuasSegitiga();
+    return 0;
+}
