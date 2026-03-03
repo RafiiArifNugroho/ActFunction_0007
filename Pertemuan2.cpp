@@ -17,3 +17,6 @@ void prosesLuasSegitiga()
     cin >> alas;
     cout << "Masukkan tinggi segitiga : ";
     cin >> tinggi;
+
+    // Memanggil function untuk kalkulasi
+    luas = hitungLuas(alas, tinggi);
