@@ -11,3 +11,9 @@ float hitungLuas(float alas, float tinggi)
 void prosesLuasSegitiga()
 {
     float alas, tinggi, luas;
+
+    // Input
+    cout << "Masukkan alas segitiga : ";
+    cin >> alas;
+    cout << "Masukkan tinggi segitiga : ";
+    cin >> tinggi;
