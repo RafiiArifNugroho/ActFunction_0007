@@ -17,3 +17,8 @@ float LuasPersegi(float x, float y)
 {
     return x * y;
 }
+
+int Jumlah(int a, int b, int c)
+{
+    return a + b + c;
+}
