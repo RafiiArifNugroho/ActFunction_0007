@@ -20,3 +20,7 @@ void prosesLuasSegitiga()
 
     // Memanggil function untuk kalkulasi
     luas = hitungLuas(alas, tinggi);
+
+    // Output
+    cout << "Luas segitiga adalah : " << luas << endl;
+}
